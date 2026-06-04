@@ -18,14 +18,14 @@ Agents:
 - Resource Agent
 - Report Agent
 
-Workflow Explanation:
+Workflow Explanation: 
 User Input → Requirements Agent → Planning Agent → Risk Agent → Resource Agent → Report Agent → Final Output
 
-How to run:
+How to run: 
 pip install -r requirements.txt
 python app.py
 
-Example Input:
+Example Input: 
 Build an AI-based project management tool for startups.
 Budget: $50,000
 Timeline: 3 months
