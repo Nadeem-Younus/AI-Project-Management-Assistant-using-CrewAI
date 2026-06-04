@@ -6,6 +6,10 @@ This system helps plan software projects by breaking them into:
 - Resource estimation
 - Executive reporting
 
+Architecture:
+ <img width="308" height="614" alt="image" src="https://github.com/user-attachments/assets/0d814dfb-4bee-448f-b431-1409993eac4b" />
+
+
 Tools Used:
 - CrewAI
 - OpenAI GPT-4o-mini
