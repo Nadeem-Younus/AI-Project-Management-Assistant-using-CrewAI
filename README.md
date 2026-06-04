@@ -11,6 +11,7 @@ Architecture:
 <img width="242" height="600" alt="image" src="https://github.com/user-attachments/assets/f56c6948-cb6a-43d0-a59b-be1153f9c5c5" />
 
 
+
 Tools Used:
 - CrewAI
 - OpenAI GPT-4o-mini
