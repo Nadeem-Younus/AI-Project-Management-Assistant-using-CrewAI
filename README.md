@@ -15,7 +15,6 @@ project-name/
 ├── tasks.py
 ├── README.md
 ├── requirements.txt
-│
 ├── tools/
 │   ├── __init__.py
 │   ├── search_tool.py
