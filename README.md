@@ -44,6 +44,5 @@ Challenges Faced:
 - CrewAI version compatibility
 - Task validation (expected_output required)
 - Tool integration issues
-- Langfuse version mismatch
 
 
