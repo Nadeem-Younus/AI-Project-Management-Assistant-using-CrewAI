@@ -7,7 +7,31 @@ This system helps plan software projects by breaking them into:
 - Executive reporting
 
 Architecture:
- <img width="308" height="614" alt="image" src="https://github.com/user-attachments/assets/0d814dfb-4bee-448f-b431-1409993eac4b" />
+project-name/
+│
+├── app.py
+├── crew.py
+├── agents.py
+├── tasks.py
+├── README.md
+├── requirements.txt
+│
+├── tools/
+│   ├── __init__.py
+│   ├── search_tool.py
+│   ├── custom_tool.py
+│   └── api_tool.py
+│
+├── fallback/
+│   ├── __init__.py
+│   └── fallback_handler.py
+│
+├── monitoring/
+│   ├── __init__.py
+│   └── langfuse_config.py
+│
+├── outputs/
+└── .env.example
 
 
 Tools Used:
