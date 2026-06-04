@@ -11,32 +11,6 @@ Architecture:
 <img width="242" height="600" alt="image" src="https://github.com/user-attachments/assets/f56c6948-cb6a-43d0-a59b-be1153f9c5c5" />
 
 
-project-name/
-│
-├── app.py
-├── crew.py
-├── agents.py
-├── tasks.py
-├── README.md
-├── requirements.txt
-├── tools/
-│   ├── __init__.py
-│   ├── search_tool.py
-│   ├── custom_tool.py
-│   └── api_tool.py
-│
-├── fallback/
-│   ├── __init__.py
-│   └── fallback_handler.py
-│
-├── monitoring/
-│   ├── __init__.py
-│   └── langfuse_config.py
-│
-├── outputs/
-└── .env.example
-
-
 Tools Used:
 - CrewAI
 - OpenAI GPT-4o-mini
