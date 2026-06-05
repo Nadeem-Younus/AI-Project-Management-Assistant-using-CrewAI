@@ -23,9 +23,8 @@ def run_project(user_input):
 
 if __name__ == "__main__":
 
-    user_input = input("Enter project description."\
-            "For example, Build a cloud-based E-commerce platform with AI recommendation engine, budget $20000, engineers 4." 
-            "Please Enter project description: ")
+    print("Enter project description. For example, Build a cloud-based E-commerce platform with AI recommendation engine, budget $20000, engineers 4.\n")
+    user_input = input("Please Enter project description: ")
 
     output = run_project(user_input)
 
