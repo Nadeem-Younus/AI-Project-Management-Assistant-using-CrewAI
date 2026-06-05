@@ -45,4 +45,8 @@ Challenges Faced:
 - Task validation (expected_output required)
 - Tool integration issues
 
+Future Enhancement:
+- Adding a conversational change-management agent that allows users to iteratively modify project plans and receive updated estimates without restarting the workflow
+- Gardio chat interface for conversation
+- Email the report
 
